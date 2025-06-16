@@ -24,7 +24,7 @@ const projects =[
         title: "Financial Predictor",
         description: 'Building a machine learning model to help predictor future sales for companies.',
         image: '/projects/Prediction.png',
-        tags: ['Python', 'Pytorch', 'TensorFlow'],
+        tags: ['Python', 'LightGBM', 'XGBoost', 'Dataframes'],
         url: 'ss.com',
         github: 'ss.com'
     }
